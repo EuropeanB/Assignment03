@@ -21,6 +21,8 @@ Local terminal:
                                                         (This depend on your local postgresql-42.7.2.jar's location)    
 VS Code:
     Recommend install the 'Database Client JDBC' Extension
+    IMPORTANT: Need open the assignment03 in VS Code first!
+    Otherwise, VS Code cannot find the Main!
     click run Button to run main.java
 
 Intellij IDEA:
