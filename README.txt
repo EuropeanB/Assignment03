@@ -24,4 +24,4 @@ VS Code:
     just click the "run Java" button
 
 Intellij IDEA:
-        run the Main.java in main directory
+    run the Main.java in main directory
