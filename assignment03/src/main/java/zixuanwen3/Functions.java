@@ -36,7 +36,7 @@ public class Functions {
             }
             System.out.println("--------------------------------------------------------------------------------------------");
         } catch (Exception e) {
-            e.printStackTrace();
+            System.out.println(e);
         }
     }
 
@@ -68,7 +68,7 @@ public class Functions {
                 System.out.println("ERROR: A new student could not be added!");
             }
         } catch (Exception e) {
-            e.printStackTrace();
+            System.out.println(e);
         }
     }
 
@@ -95,7 +95,7 @@ public class Functions {
                 System.out.println("ERROR: Could not update the student's email!");
             }
         } catch (Exception e) {
-            e.printStackTrace();
+            System.out.println(e);
         }
     }
 
@@ -119,7 +119,7 @@ public class Functions {
                 System.out.println("ERROR: Could not delete the student with ID " + student_id + "!");
             }
         } catch (Exception e) {
-            e.printStackTrace();
+            System.out.println(e);
         }
     }
 }
