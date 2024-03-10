@@ -7,7 +7,7 @@ A database mamagement
 
 
 Data:
-assignment03, .idea, .vscode directories
+assignment03 directory
 README.txt
 
 Compilation and launching:
