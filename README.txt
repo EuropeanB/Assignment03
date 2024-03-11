@@ -3,7 +3,7 @@ StudentID:  101143829
 
 
 Purpose: 
-A database mamagement
+A database mamagement application
 
 
 Data:
