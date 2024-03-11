@@ -9,6 +9,7 @@ A database mamagement
 Data:
 assignment03 directory
 README.txt
+createTable_InsertData.sql
 
 Compilation and launching:
 Local terminal:
